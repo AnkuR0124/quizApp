@@ -3,7 +3,7 @@
 
 Quick Quiz is a straightforward online quiz platform where users can assess their knowledge through multiple-choice questions. The platform keeps track of user scores and offers feedback on how they performed.
 
-[To play the game, visit](https://ankur0124.github.io/quizApp/)
+To play the game, visit this [link](https://ankur0124.github.io/quizApp/)
 
 ## Features
 
